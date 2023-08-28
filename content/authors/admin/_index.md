@@ -1,9 +1,8 @@
 ---
-title: CIAOHUAMIAUMICHIAO （小花貓咪叫）
-role: ""
+title: "（小花貓咪叫）CIAOHUAMIAUMICHIAO "
+role: REAL and ETERNAL life
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 superuser: true
 status:
   icon: ☕️
