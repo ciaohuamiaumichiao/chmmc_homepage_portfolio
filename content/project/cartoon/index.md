@@ -6,7 +6,7 @@ tags:
   - ED
 external_link: https://youtu.be/rmWNu_D59io?si=fqZDhrAOezTX4PTo
 image:
-  filename: maxresdefault.webp
+  filename: artlesson_1.jpg
 ---
 把我的美術課還給我 - CANVA初心入門 之 比會使用更重要的事！\
 tip1：排版這件其實是一門說話的藝術：讓你的聲音有大有小 \
